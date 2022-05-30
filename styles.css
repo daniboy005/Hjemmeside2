@@ -16,7 +16,7 @@
   
   .topnav a {
     float: left;
-    color: #ffffff;
+    color: #36699d;
     text-align: center;
     padding: 20px 18px;
     text-decoration: none;
@@ -52,11 +52,12 @@
       
   
   .leftside {
-      background: #ffffff
+      background: #36699d
   }
 
   .rightside {
-    background: #ffffff
+    background: #36699d
+
   }
 
 
@@ -217,7 +218,7 @@
 }
 
 .press-logo {
-  width: 15%;
+  width: 30%;
   margin: 20px 20px 50px;
 }
 
@@ -229,6 +230,7 @@
 .fa-facebook {
   background: #3B5998;
   color: white;
+  size: 3rem;
 }
 
 .fa-instagram {
@@ -240,3 +242,4 @@
   background-color: white;
   color: #ef8172;
 }
+
