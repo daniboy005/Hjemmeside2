@@ -70,7 +70,7 @@
 }
 
 .about {
-  background-color: #36699d;
+  background-color: #ffffff;
   justify-content: center;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif; 
 }
@@ -231,7 +231,7 @@
 .fa-facebook {
   background: #3B5998;
   color: white;
-  size: 3rem;
+  size: 100rem;
 }
 
 .fa-instagram {
