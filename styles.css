@@ -210,7 +210,7 @@
   border-radius: 100%;
   margin: 20px;
   background-image: url(Images/last\ ned-modified.png);
-  padding-left: 200px;
+  justify-content: center;
 }
 
 
