@@ -24,7 +24,9 @@
     font-size: 20px;
   }
   
-  
+  .topnav a:hover {
+   color: rgb(146, 146, 146);
+  }
   
   .topnav a.active {
     color: rgb(255, 255, 255);
