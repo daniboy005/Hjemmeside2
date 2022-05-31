@@ -10,9 +10,9 @@
 }
 
 .topnav {
+  margin-left: 300px;
     background-color: #36699d;
     overflow: hidden;
-    margin-left: 300px;
   }
   
   .topnav a {
