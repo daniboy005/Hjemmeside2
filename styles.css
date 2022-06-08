@@ -1,5 +1,5 @@
 .TEXT {
-  color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
   margin-left: 130px;
   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
@@ -95,7 +95,7 @@
   margin-left: 10px;
   margin-top: 75px;
   font-family:Verdana, Geneva, Tahoma, sans-serif;
-  color: #000000;
+  color: #ffffff;
 }
 
 .TEXT2{
@@ -228,8 +228,6 @@
 }
 
 .fa-instagram {
-  background: #bc029a;
-  color: white;
   font-size: 2rem;
 }
 
@@ -241,4 +239,16 @@
 
 .fa-github {
   font-size: 2rem;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
 }
