@@ -57,10 +57,11 @@
 
 
 .img{
-  width: 400px;
+  width: 450px;
   clip-path: circle();
   padding: 10px;
-  position: relative ; left: 100px;
+  position: relative ; left: 50px;
+  position: relative; bottom: 25%;
 }
 
 .about {
